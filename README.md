@@ -1,4 +1,4 @@
-#The Kenyan Academic & AI Empowerment a modern, scalable , and customizable freelance marketplace SaaS platform designed specifically for university students and expert freelancers.  
+The Kenyan Academic & AI Empowerment a modern, scalable , and customizable freelance marketplace SaaS platform designed specifically for university students and expert freelancers.  
 This application connects students who need help with final-year projects, theses, research proposals, and academic tasks in fields like Computer Science, Medicine, Pharmacy, Journalism, and more — with skilled freelancers ready to deliver high-quality, timely support. All in one intuitive, student-friendly dashboard. Business Model: B2C, B2B, and C2B Hybrid StrategyFreelanceCraft operates a three-sided marketplace that seamlessly blends B2C, B2B, and C2B dynamics to serve the academic ecosystem:Model
 Description
 B2C (Business-to-Consumer)
