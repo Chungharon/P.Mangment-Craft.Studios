@@ -1,3 +1,5 @@
+import mongoose from "mongoose";
+const { Schema } = mongoose;
 // Gig Schema
 const gigSchema = new Schema({
   seller: {
@@ -89,4 +91,4 @@ const gigSchema = new Schema({
   timestamps: true
 });
 
-export const Gig = mongoose.model('Gig', gigSchema);
+export default mongoose.model("Gig", gigSchema);
